@@ -1,26 +1,26 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- INIX CODE — GitHub Profile README (All Services Verified) -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=40&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Inix+Code+👋;Web+%26+Mobile+App+Developer+🚀;Building+Digital+Experiences+✨" alt="Typing SVG" />
-
-<!-- Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=120&section=header&stroke=0" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- INIX CODE — GitHub Profile README (Final Clean Ver) -->
+<!-- All images verified — no broken external SVGs       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <br>
 
-<!-- Social Badges -->
-[![Website](https://img.shields.io/badge/🌐_Website-inixcode.github.io-0ea5e9?style=for-the-badge)](https://inixcode.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-inixcode@gmail.com-6366f1?style=for-the-badge)](mailto:inixcode@gmail.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@inixcode-E4405F?style=for-the-badge)](https://instagram.com/inixcode)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge)](https://wa.me/6281234567890)
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=140&section=header&text=Inix+Code&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=inixcode&color=0ea5e9&style=flat-square&label=Profile+Views)
+<h3 align="center">🚀 Web & Mobile App Developer · Indonesia 🇮🇩</h3>
 
-</div>
+<p align="center">
+  <a href="https://inixcode.github.io"><img src="https://img.shields.io/badge/🌐_Website-inixcode.github.io-0ea5e9?style=for-the-badge" /></a>
+  <a href="mailto:inixcode@gmail.com"><img src="https://img.shields.io/badge/📧_Email-inixcode@gmail.com-6366f1?style=for-the-badge" /></a>
+  <a href="https://instagram.com/inixcode"><img src="https://img.shields.io/badge/📸_Instagram-@inixcode-E4405F?style=for-the-badge" /></a>
+  <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inixcode&color=0ea5e9&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
@@ -28,24 +28,25 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-**INIX CODE** — Web & Mobile App Developer 🇮🇩
+**INIX CODE** — I build **modern websites** and **mobile apps** that help businesses and UMKM look professional in the digital era.
 
-Saya membangun **website modern** dan **aplikasi mobile** yang membantu bisnis dan UMKM tampil profesional di era digital.
+<br>
 
 | | |
 |:---|:---|
-| 🔭 **Fokus** | Web Dev, Mobile Apps (Flutter), UI/UX |
-| 🌱 **Belajar** | Advanced Flutter, Backend, Cloud |
-| 💡 **Spesialis** | Landing page, booking system, e-commerce |
+| 🔭 **Focus** | Web Dev, Flutter Mobile, UI/UX |
+| 🌱 **Learning** | Advanced Flutter, Backend, Cloud |
+| 💡 **Specialty** | Landing page, booking, e-commerce |
 | ⚡ **Fun Fact** | Coffee-powered developer ☕ |
-| 🎯 **Misi** | Bantu 100+ UMKM go digital |
+| 🎯 **Mission** | Help 100+ UMKM go digital |
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<!-- Profile Summary Card (verified working) -->
+<br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inixcode&theme=tokyonight" width="100%" />
 
 </td>
@@ -68,7 +69,7 @@ Saya membangun **website modern** dan **aplikasi mobile** yang membantu bisnis d
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
@@ -95,10 +96,10 @@ Saya membangun **website modern** dan **aplikasi mobile** yang membantu bisnis d
 
 | | Service | Description |
 |:---:|:---|:---|
-| 🌐 | **Web Development** | Landing page, e-commerce, company profile, web app custom |
-| 📱 | **Mobile App** | Android & iOS app dengan Flutter (single codebase) |
-| 🎨 | **UI/UX Design** | Desain modern, responsive, dan user-friendly |
-| 🔧 | **Maintenance** | Bug fix, fitur baru, optimasi performa |
+| 🌐 | **Web Development** | Landing page, e-commerce, company profile, web app |
+| 📱 | **Mobile App** | Android & iOS app with Flutter (single codebase) |
+| 🎨 | **UI/UX Design** | Modern, responsive, user-friendly design |
+| 🔧 | **Maintenance** | Bug fix, new features, performance optimization |
 
 </div>
 
@@ -111,25 +112,27 @@ Saya membangun **website modern** dan **aplikasi mobile** yang membantu bisnis d
 <td width="50%" valign="top">
 
 #### 🥟 Makovka Dimsum
+
 **UMKM Landing Page**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=for-the-badge)](https://inixcode.github.io/projects/makovka-dimsum/)
 
-Landing page modern dengan menu produk, testimonial, FAQ, dan integrasi WhatsApp.
+Landing page modern untuk bisnis dimsum dengan menu produk, testimonial, FAQ, dan integrasi WhatsApp.
 
-*Tailwind CSS · Responsive · SEO*
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive-10B981?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-8B5CF6?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🏢 Nexus Digital
+
 **Digital Agency Website**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366f1?style=for-the-badge)](https://inixcode.github.io/projects/nexus-digital/)
 
-Company profile dengan dark theme, portfolio showcase, dan animasi smooth.
+Company profile digital agency dengan dark theme elegan, portfolio showcase, dan animasi smooth.
 
-*Dark Mode · Animated · Premium*
+![Dark Mode](https://img.shields.io/badge/Dark_Mode-1F2937?style=flat-square) ![Animated](https://img.shields.io/badge/Animated-F59E0B?style=flat-square) ![Premium](https://img.shields.io/badge/Premium-EC4899?style=flat-square)
 
 </td>
 </tr>
@@ -137,25 +140,27 @@ Company profile dengan dark theme, portfolio showcase, dan animasi smooth.
 <td width="50%" valign="top">
 
 #### 💇 Glow Studio
+
 **Salon Booking System**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-a855f7?style=for-the-badge)](https://inixcode.github.io/projects/glow-studio/)
 
-Sistem booking online dengan pilih stylist, layanan, dan jadwal interaktif.
+Sistem booking online salon kecantikan dengan pilih stylist, layanan, dan jadwal interaktif.
 
-*Booking · Interactive · Calendar*
+![Booking](https://img.shields.io/badge/Booking-8B5CF6?style=flat-square) ![Interactive](https://img.shields.io/badge/Interactive-10B981?style=flat-square) ![Calendar](https://img.shields.io/badge/Calendar-3B82F6?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎪 FestHub
+
 **Event Ticketing Platform**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-f59e0b?style=for-the-badge)](https://inixcode.github.io/projects/festhub/)
 
-Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
+Platform ticketing event modern dengan katalog konser, festival, dan berbagai acara.
 
-*Events · Ticketing · Modern*
+![Events](https://img.shields.io/badge/Events-EF4444?style=flat-square) ![Ticketing](https://img.shields.io/badge/Ticketing-F59E0B?style=flat-square) ![Modern](https://img.shields.io/badge/Modern-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -173,7 +178,6 @@ Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
 
 <div align="center">
 
-<!-- Profile Details (verified working ✅) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inixcode&theme=tokyonight" width="100%" />
 
 </div>
@@ -182,10 +186,7 @@ Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
 
 <div align="center">
 
-<!-- Repos per Language (verified working ✅) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inixcode&theme=tokyonight" width="48%" />
-
-<!-- Productive Time (verified working ✅) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inixcode&theme=tokyonight&utcOffset=7" width="48%" />
 
 </div>
@@ -194,7 +195,6 @@ Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
 
 <div align="center">
 
-<!-- Streak Stats (verified working ✅) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inixcode&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
@@ -203,7 +203,6 @@ Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
 
 <div align="center">
 
-<!-- Activity Graph (verified working ✅) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=inixcode&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
@@ -216,10 +215,12 @@ Platform ticketing event dengan katalog konser, festival, dan berbagai acara.
 
 **Mau bikin website atau aplikasi mobile untuk bisnis kamu?**
 
-[![Email](https://img.shields.io/badge/📧_inixcode@gmail.com-6366f1?style=for-the-badge)](mailto:inixcode@gmail.com)
-[![Website](https://img.shields.io/badge/🌐_inixcode.github.io-0ea5e9?style=for-the-badge)](https://inixcode.github.io)
-[![Instagram](https://img.shields.io/badge/📸_@inixcode-E4405F?style=for-the-badge)](https://instagram.com/inixcode)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge)](https://wa.me/6281234567890)
+<br>
+
+<a href="mailto:inixcode@gmail.com"><img src="https://img.shields.io/badge/📧_inixcode@gmail.com-6366f1?style=for-the-badge" /></a>
+<a href="https://inixcode.github.io"><img src="https://img.shields.io/badge/🌐_inixcode.github.io-0ea5e9?style=for-the-badge" /></a>
+<a href="https://instagram.com/inixcode"><img src="https://img.shields.io/badge/📸_@inixcode-E4405F?style=for-the-badge" /></a>
+<a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge" /></a>
 
 </div>
 
