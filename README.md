@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=INIX+CODE&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0ea5e9,50:6366f1,100:a855f7&height=250&section=header&text=INIX+CODE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </h1>
 
 <h3 align="center">🚀 Web & Mobile App Developer · Indonesia 🇮🇩</h3>
