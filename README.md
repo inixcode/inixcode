@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- INIX CODE — GitHub Profile README (Final Clean Ver) -->
-<!-- All images verified — no broken external SVGs       -->
+<!-- INIX CODE — GitHub Profile README (Final Premium) -->
+<!-- All caps header + Premium animated design          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <br>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=140&section=header&text=Inix+Code&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=INIX+CODE&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 </h1>
 
 <h3 align="center">🚀 Web & Mobile App Developer · Indonesia 🇮🇩</h3>
@@ -230,6 +230,6 @@ Platform ticketing event modern dengan katalog konser, festival, dan berbagai ac
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=100&section=footer" />
 
-*⭐️ From [Inix Code](https://github.com/inixcode) with 💙*
+*⭐️ From [INIX CODE](https://github.com/inixcode) with 💙*
 
 </div>
